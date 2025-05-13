@@ -1,12 +1,12 @@
-<p float="center">
- <img src="https://github.com/renatocampoy/Twitch-LED-Bot/blob/main/tlb.png" />
-</p>
-
 ## Twitch LED Bot - ESP8266
 
 Criado por Eng. Renato Campoy.
 
 Este projeto permite que você controle um strip de LED NeoPixel via comandos no chat da Twitch, utilizando a placa ESP8266. O código é escrito em C++ e utiliza a biblioteca WiFiManager para gerenciar a conexão Wi-Fi e a biblioteca Adafruit NeoPixel para controlar o strip de LED.
+
+<p float="center">
+ <img src="https://raw.githubusercontent.com/renatocampoy/Twitch-LED-Bot/refs/heads/main/tlb.png" />
+</p>
 
 ## Token da Twitch
 
